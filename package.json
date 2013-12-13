@@ -1,0 +1,30 @@
+{
+  "name": "holdspartans",
+  "version": "0.0.0",
+  "description": "A function list that will hold their position until a status bit is changed",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binocarlos/holdspartans.git"
+  },
+  "keywords": [
+    "function",
+    "queue",
+    "buffer"
+  ],
+  "author": "Kai Davenport",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binocarlos/holdspartans/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "should": "~2.1.0"
+  }
+}
